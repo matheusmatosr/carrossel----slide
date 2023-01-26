@@ -43,6 +43,10 @@ img {
   justify-content: center;
 }
 
+.detalheFinal {
+  margin-top: 80px;
+}
+
 @media (max-width: 450px) {
   .swiper {
     height: 270px;
